@@ -1,0 +1,31 @@
+# TabTidy — Privacy Policy
+
+**Last updated: April 2026**
+
+## Overview
+
+TabTidy is a Chrome extension that groups your open tabs by domain. This policy explains how the extension handles data.
+
+## Data collection
+
+TabTidy does **not** collect, store, transmit or share any personal data or browsing data.
+
+## How it works
+
+- When you click **Group all tabs**, the extension reads the URLs and titles of your currently open tabs to determine their domain
+- Tabs are grouped locally in your browser using Chrome's native Tab Groups API
+- No data leaves your device
+- No data is sent to any server
+- No analytics or tracking of any kind is used
+- Tab data is only accessed at the moment you click the button — the extension does not run in the background
+
+## Permissions
+
+| Permission | Reason |
+|---|---|
+| `tabs` | To read the URLs and titles of open tabs in order to group them by domain |
+| `tabGroups` | To create, name, colour and collapse tab groups in Chrome |
+
+## Contact
+
+TabTidy is an internal tool built by the IT team at the Ellen MacArthur Foundation. For questions contact [it@ellenmacarthurfoundation.org](mailto:it@ellenmacarthurfoundation.org).
